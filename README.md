@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeungEun-dune
 - 👀 I’m interested in mathematics, computer programming and political philosophy. (Especially interested in aritificial intelligence(ML, DL), and cryptography.)
-- 🌱 I’m currently learning mathematics(analysis, linear algebra, number theory, discrete mathematics, and differential equations), and computer programming(C language, HTML, Python and Java).
-- 💞️ I’m looking to collaborate on web or app-making projects which aims to improve society in a better way.
+- 🌱 I’m currently learning mathematics(analysis, linear algebra.. so on), and computer programming(C language, HTML, Python, Java, and Octave).
+- 💞️ I’m looking to collaborate on web (and app) making projects or AI projects which aims to improve society in a better way.
 - 📫 Reach me via this github account.
 
 Thanks!
