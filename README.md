@@ -2,7 +2,7 @@
 - 👀 
 - 🌱
 - 💞️
-- 📫 Reach me via this github account.
+- 📫
 
 Thanks!
 
