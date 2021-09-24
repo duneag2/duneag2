@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeungEun-dune
+- 👋 Hi, I’m @Seungeun-dune
 - 👀 
 - 🌱
 - 💞️
