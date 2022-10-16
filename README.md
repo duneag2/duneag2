@@ -3,9 +3,6 @@
 
 ## :flashlight:**Tech Stack**:flashlight:
 <div>
-<div style=" 
-font-size: 2.0em;
-">
 <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Matlab-02569B?style=flat-square&logo=MATLAB&logoColor=white"/>  
@@ -20,6 +17,11 @@ font-size: 2.0em;
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
+- Computer Vision, Medical Images
+- Graph Neural Network
+- Recommdender System
+- Modeling Uncertainty, Data Dependent Weight Initialization
+- Reinforcement Learning
 
 
 <br/><br/>
