@@ -17,7 +17,7 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Computer Vision, Medical Image**
+**- Computer Vision, Medical Images**
 <br/>
 **- Graph Neural Network**
 <br/>
