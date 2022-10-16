@@ -17,13 +17,13 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-- Computer Vision, Medical Images
-- Graph Neural Network
-- Recommdender System
-- Modeling Uncertainty, Data Dependent Weight Initialization
-- Reinforcement Learning
+**- Computer Vision, Medical Images**
+**- Graph Neural Network**
+**- Recommdender System**
+**- Modeling Uncertainty, Data Dependent Weight Initialization**
+**- Reinforcement Learning**
 
-<br/><br/>
+<br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
 **[Korea University SOULMATE "APPLE-2739" M7](https://youtu.be/ZVlzFF2htVQ?t=3319)**
 <br/>
