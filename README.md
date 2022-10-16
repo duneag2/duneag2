@@ -2,8 +2,10 @@
 
 <div align="center">
   :flashlight:**Tech Stack**:flashlight:
-  <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white/">
-  [![C]](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  <div>
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  </div>
   
   :airplane:**Research Interest**:airplane:
   
