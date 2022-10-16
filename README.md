@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C8E6A8&height=250&section=header&text=Seungeun%20Lee&fontSize=50&fontColor=000000)
 
 <div align="center">
-  :flashlight:**Tech Stack**:flashlight:
+  :flashlight: **Tech Stack** :flashlight:
   <div>
   <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   </div>
   
   :airplane:**Research Interest**:airplane:
