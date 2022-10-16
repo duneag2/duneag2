@@ -26,16 +26,8 @@
 
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
-  
-</div>
 
-- 👋 Hi, I’m @duneag2
-- 👀 
-- 🌱
-- 💞️
-- 📫
-
-Thanks!
+[![Video Label](http://img.youtube.com/vi/ZVlzFF2htVQ/0.jpg)](https://youtu.be/ZVlzFF2htVQ?t=3319)
 
 <!---
 duneag2/duneag2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
