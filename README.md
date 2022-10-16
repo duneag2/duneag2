@@ -21,7 +21,7 @@
 <br/>
 **- Graph Neural Network**
 <br/>
-**- Recommdender System**
+**- Recommender System**
 <br/>
 **- Modeling Uncertainty, Data Dependent Weight Initialization, XAI**
 <br/>
