@@ -23,10 +23,8 @@
 - Modeling Uncertainty, Data Dependent Weight Initialization
 - Reinforcement Learning
 
-
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
-
 **[Korea University SOULMATE "APPLE-2739" M7](https://youtu.be/ZVlzFF2htVQ?t=3319)**
 <br/>
 **[Korea University SOULMATE "APPLE-2739" M9](https://youtu.be/MO0flSMDDxA?t=877)**
