@@ -23,7 +23,7 @@
 <br/>
 **- Recommdender System**
 <br/>
-**- Modeling Uncertainty, Data Dependent Weight Initialization**
+**- Modeling Uncertainty, Data Dependent Weight Initialization, XAI**
 <br/>
 **- Reinforcement Learning**
 <br/>
