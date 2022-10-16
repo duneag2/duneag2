@@ -27,7 +27,7 @@
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
 
-[![Video Label](http://img.youtube.com/vi/ZVlzFF2htVQ/0.jpg)](https://youtu.be/ZVlzFF2htVQ?t=3319)
+[KU Soulmate <APPLE-2739> M7](https://youtu.be/ZVlzFF2htVQ?t=3319)
 
 <!---
 duneag2/duneag2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
