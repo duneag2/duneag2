@@ -27,10 +27,13 @@
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
 
-[Korea University SOULMATE "APPLE-2739" M7](https://youtu.be/ZVlzFF2htVQ?t=3319)
-[Korea University SOULMATE "APPLE-2739" M9](https://youtu.be/MO0flSMDDxA?t=877)
-[Korea University SOULMATE "Avenue of Voice" M7](https://youtu.be/ZIljG9sENtM?t=3352)
-[Korea University SOULMATE "Avenue of Voice" M8](https://youtu.be/ZIljG9sENtM?t=3640)
+**[Korea University SOULMATE "APPLE-2739" M7](https://youtu.be/ZVlzFF2htVQ?t=3319)**
+<br/>
+**[Korea University SOULMATE "APPLE-2739" M9](https://youtu.be/MO0flSMDDxA?t=877)**
+<br/>
+**[Korea University SOULMATE "Avenue of Voice" M7](https://youtu.be/ZIljG9sENtM?t=3352)**
+<br/>
+**[Korea University SOULMATE "Avenue of Voice" M8](https://youtu.be/ZIljG9sENtM?t=3640)**
 
 <!---
 duneag2/duneag2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
