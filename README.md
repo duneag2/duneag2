@@ -18,10 +18,15 @@
 
 ## :airplane:**Research Interest**:airplane:
 **- Computer Vision, Medical Images**
+<br/>
 **- Graph Neural Network**
+<br/>
 **- Recommdender System**
+<br/>
 **- Modeling Uncertainty, Data Dependent Weight Initialization**
+<br/>
 **- Reinforcement Learning**
+<br/>
 
 <br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
