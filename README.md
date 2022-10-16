@@ -1,17 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C8E6A8&height=250&section=header&text=Seungeun%20Lee&fontSize=50&fontColor=000000)
 
 
-:flashlight:**Tech Stack**:flashlight:
+##:flashlight:**Tech Stack**:flashlight:
 <div>
 <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Matlab-02569B?style=flat-square&logo=MATLAB&logoColor=white"/>  
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>  
+<img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
+<br/>
+<img src = "https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
 </div>
-  
-:airplane:**Research Interest**:airplane:
-  
-:musical_score:**Musical Numbers I composed**:musical_score:
+<br/><br/>
+##:airplane:**Research Interest**:airplane:
+
+<br/><br/>
+##:musical_score:**Musical Numbers I composed**:musical_score:
   
 </div>
 
