@@ -18,15 +18,15 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Computer Vision, Medical Images**
+**- Computer Vision (Image Manipulation, Latent Editing, Medical Images)**
+<br/>
+**- Deep Reinforcement Learning**
 <br/>
 **- Graph Neural Network**
 <br/>
+**- Modeling Uncertainty, Bayesian Deep Learning, XAI**
+<br/>
 **- Recommender System**
-<br/>
-**- Modeling Uncertainty, Data Dependent Weight Initialization, XAI**
-<br/>
-**- Reinforcement Learning**
 <br/>
 
 <br/><br/>
