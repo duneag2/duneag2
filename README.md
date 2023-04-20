@@ -5,9 +5,9 @@
 <div>
 <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Matlab-02569B?style=for-the-badge&logo=MATLAB&logoColor=white"/>  
+<img src = "https://img.shields.io/badge/Matlab-02569B?style=flat-square&logo=MATLAB&logoColor=white"/>  
 <img src = "https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>  
-<img src = "https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+<img src = "https://img.shields.io/badge/java-007396?style=for-flat-square&logo=Java&logoColor=white"> 
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
 <img src = "https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
