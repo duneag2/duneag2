@@ -25,15 +25,17 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
+**- Exploring the world of Data Science Through the Idea of Mathematics**
+<br/>
 **- Computer Vision (Image Manipulation, Latent Editing, 3D, Medical Images)**
 <br/>
-**- Deep Reinforcement Learning**
+**- (Deep) Reinforcement Learning**
 <br/>
 **- Graph Neural Network**
 <br/>
 **- Modeling Uncertainty, Bayesian Deep Learning, XAI**
 <br/>
-**- Recommender System**
+**- Audio Spoofing Countermeasure, Speaker Verification System**
 <br/>
 
 <br/><br/>
