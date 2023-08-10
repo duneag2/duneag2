@@ -4,9 +4,9 @@
 ## :movie_camera:**Now Studying**:movie_camera:
 **- B.S./M.S. Integrated Course @Korea University**
 <br/>
-**- B.S.: Mathematics & Computer Science**
-<br/>
-**- M.S.: Applied Mathematics**
+**- B.S.: Mathematics & Computer Science, M.S.: Applied Mathematics**
+
+<br/><br/>
 
 ## :flashlight:**Tech Stack**:flashlight:
 <div>
