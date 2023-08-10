@@ -1,5 +1,5 @@
 # Hi! I'm Seungeun🎶🍉
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=250&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=30&fontColor=000000&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=250&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=30&fontColor=000000&fontAlign=65&rotate=20)
 
 
 ## :flashlight:**Tech Stack**:flashlight:
