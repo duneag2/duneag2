@@ -1,5 +1,5 @@
 # Hi! I'm Seungeun🎶🍉
-![header](https://capsule-render.vercel.app/api?type=slice&color=#F7EFE9&height=200&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=30&fontColor=000000&fontAlign=70&rotate=13&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=30&fontColor=000000&fontAlign=70&rotate=13&fontAlignY=40)
 
 ## :movie_camera:**Now Studying**:movie_camera:
 **- Exploring the world of Data Science Through the Idea of Mathematics**
