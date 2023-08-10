@@ -1,4 +1,4 @@
-# Hi! I'm Seungeun🎶:🍉:
+# Hi! I'm Seungeun🎶🍉
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C8E6A8&height=250&section=header&text=Seungeun%20Lee&fontSize=50&fontColor=000000)
 
 
