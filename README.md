@@ -2,9 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Exploring%20the%20World%20Through%20Data&fontSize=30&fontColor=000000&fontAlign=70&rotate=13&fontAlignY=40)
 
 ## :movie_camera:**Now Studying**:movie_camera:
+**- Exploring the world of Data Science Through the Idea of Mathematics**
+<br/>
 **- B.S./M.S. Integrated Course @Korea University**
 <br/>
-**- B.S.: Mathematics & Computer Science, M.S.: Applied Mathematics**
+**- B.S. in Mathematics & Computer Science, M.S. in Applied Mathematics**
 
 <br/><br/>
 
@@ -25,8 +27,6 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Exploring the world of Data Science Through the Idea of Mathematics**
-<br/>
 **- Computer Vision (Image Manipulation, Latent Editing, 3D, Medical Images)**
 <br/>
 **- (Deep) Reinforcement Learning**
