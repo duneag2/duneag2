@@ -1,6 +1,6 @@
 # Hi! I'm Seungeun🎶🍉
 
-<span style="font-size:100%">**Exploring the World of Data Science Through the Idea of Mathematics**</span>
+> <span style="font-size:100%">**Exploring the World of Data Science Through the Idea of Mathematics**</span>
 
 <br/><br/>
 
