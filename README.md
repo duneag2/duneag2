@@ -2,6 +2,8 @@
 
 > **Exploring the World of Data Science Through the Idea of Mathematics**
 
+<br/><br/>
+
 ## :movie_camera:**Now Studying**:movie_camera:
 **- B.S./M.S. Integrated Course @Korea University**
 <br/>
