@@ -31,7 +31,7 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Computer Vision (Image translation, 3D, Medical Images)**
+**- Computer Vision (Image-to-Image Translation, 3D, Medical Images)**
 <br/>
 **- Explainable AI**
 <br/>
