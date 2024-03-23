@@ -31,16 +31,15 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Computer Vision (Image Manipulation, Latent Editing, 3D, Medical Images)**
+**- Computer Vision (Image translation, 3D, Medical Images)**
+<br/>
+**- Explainable AI**
+<br/>
+**- Voice Spoofing Countermeasure, Speaker Verification System**
+<br/>
+**- Bayesian Deep Learning**
 <br/>
 **- (Deep) Reinforcement Learning**
-<br/>
-**- Graph Neural Network**
-<br/>
-**- Modeling Uncertainty, Bayesian Deep Learning, XAI**
-<br/>
-**- Audio Spoofing Countermeasure, Speaker Verification System**
-<br/>
 
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
