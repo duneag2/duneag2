@@ -37,6 +37,8 @@
 <br/>
 **- Voice Spoofing Countermeasure, Speaker Verification System**
 <br/>
+**- Machine Learning Operations [MLOps]**
+<br/>
 **- Bayesian Deep Learning**
 <br/>
 **- (Deep) Reinforcement Learning**
