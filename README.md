@@ -7,7 +7,7 @@
 ## :movie_camera:**Now Studying**:movie_camera:
 **- B.S./M.S. Integrated Course @Korea University**
 <br/>
-**- B.S. in Mathematics & Computer Science and Engineering, M.S. in Applied Mathematics**
+**- B.S. in Mathematics & B.E. in Computer Science and Engineering, M.S. in Applied Mathematics**
 
 <br/><br/>
 
