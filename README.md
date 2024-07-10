@@ -1,6 +1,6 @@
 # Hi! I'm Seungeun🎶🍉
 
->**Exploring the Realm of Data Science Through the Idea of Mathematics**
+>**A Pioneer of Unexplored Questions: Responsible AI through the lens of Mathematics**
 
 <br/><br/>
 
@@ -31,29 +31,27 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Computer Vision (Image-to-Image Translation, 3D, Medical Images)**
+**- Interpretable Machine Learning / Deep Learning**
 <br/>
-**- Explainable AI**
+**- Computer Vision (Image-to-Image Translation, 3D, Medical Images)**
 <br/>
 **- Voice Spoofing Countermeasure, Speaker Verification System**
 <br/>
 **- Machine Learning Operations [MLOps]**
 <br/>
-**- Bayesian Deep Learning**
-<br/>
 **- (Deep) Reinforcement Learning**
 
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
-**[Korea University SOULMATE "APPLE-2739" M7 피지 못한 꽃](https://youtu.be/ZVlzFF2htVQ?t=3319)**
+**[Korea University SOULMATE "APPLE-2739" M7 피지 못한 꽃 (The Unbloomed Flower)](https://youtu.be/ZVlzFF2htVQ?t=3319)**
 <br/>
-**[Korea University SOULMATE "APPLE-2739" M9 낮선 밤하늘](https://youtu.be/MO0flSMDDxA?t=877)**
+**[Korea University SOULMATE "APPLE-2739" M9 낮선 밤하늘 (The Strange Night Sky)](https://youtu.be/MO0flSMDDxA?t=877)**
 <br/>
 **[Korea University SOULMATE "Avenue of Voice" M7 Flame](https://youtu.be/ZIljG9sENtM?t=3352)**
 <br/>
-**[Korea University SOULMATE "Avenue of Voice" M8 굿뉴스](https://youtu.be/ZIljG9sENtM?t=3640)**
+**[Korea University SOULMATE "Avenue of Voice" M8 굿뉴스 (Good News)](https://youtu.be/ZIljG9sENtM?t=3640)**
 <br/>
-**[Korea University SOULMATE "돌아보면 언제나" M10 만남의 끝은 곧 새로운 출발](https://youtu.be/osU1YM5JzxQ?t=5088)**
+**[Korea University SOULMATE "돌아보면 언제나" M10 만남의 끝은 곧 새로운 출발 (The End as a New Beginning)](https://youtu.be/osU1YM5JzxQ?t=5088)**
 
 <!---
 duneag2/duneag2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
