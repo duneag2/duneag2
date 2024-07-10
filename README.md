@@ -33,13 +33,13 @@
 ## :airplane:**Research Interest**:airplane:
 **- Interpretable Machine Learning / Deep Learning**
 <br/>
-**- Computer Vision (Image-to-Image Translation, 3D, Medical Images)**
+**- Computer Vision (Image-to-Image Translation, Medical Images)**
 <br/>
 **- Voice Spoofing Countermeasure, Speaker Verification System**
 <br/>
-**- Machine Learning Operations [MLOps]**
+**- Machine Learning Operations (MLOps)**
 <br/>
-**- (Deep) Reinforcement Learning**
+**- Deep Reinforcement Learning**
 
 <br/><br/>
 ## :musical_score:**Musical Numbers I composed**:musical_score:
