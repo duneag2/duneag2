@@ -31,7 +31,9 @@
 <br/><br/>
 
 ## :airplane:**Research Interest**:airplane:
-**- Interpretable Machine Learning / Deep Learning**
+**- Interpretable & Causal Machine Learning / Deep Learning**
+<br/>
+**- Tabular data**
 <br/>
 **- Computer Vision (Image-to-Image Translation, Medical Images)**
 <br/>
